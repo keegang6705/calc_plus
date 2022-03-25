@@ -1,4 +1,4 @@
 # calc_plus
-EN:Other convenience functions__
+EN:Other convenience functions  
 TH:ฟังก์ชั่นอำนวยความสะดวกอื่นๆ
 
