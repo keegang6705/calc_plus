@@ -1,2 +1,4 @@
 # calc_plus
-just test
+EN:Other convenience functions
+TH:ฟังก์ชั่นอำนวยความสะดวกอื่นๆ
+
